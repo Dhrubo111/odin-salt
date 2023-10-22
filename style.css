@@ -1,0 +1,50 @@
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('/font/Oswald-VariableFont_wght.ttf') format('truetype');
+  /* You can specify other font properties here */
+}
+.main-content{
+  text-align: center;
+  background-color: #442969;
+  color: white;
+}
+
+.home-image{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
+button{
+  background-color: #610C9F;
+  border-radius: 20%;
+  font-size: 30px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.common{
+  width: 75%;
+}
+
+h1{
+ 
+  font-family: 'Oswald', sans-serif;
+  font-size: 70px;
+  font-weight: bolder;
+}
+h2{
+  
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+div{
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
